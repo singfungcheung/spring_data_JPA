@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 14 23:25:52 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018e-4025-055f-0000019c0220 
+on database directory memory:/home/singfung/Documents/learn_program/Java Spring Data JPA/f462383e-ef1f-4b36-af8c-42bd02e900a2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/singfung/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=21.0.2+14-LTS
+user.dir=/home/singfung/Documents/learn_program/Java Spring Data JPA
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-97-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
